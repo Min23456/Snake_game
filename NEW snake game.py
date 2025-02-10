@@ -9,7 +9,7 @@ pygame.init()
 width = 800
 height = 600
 
-# Colors
+# Colours
 white = (255, 255, 255)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
